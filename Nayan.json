@@ -7,15 +7,15 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "sakib-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100053075483881",
+    "100092383413128"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "100092383413128",
+    "100053075483881"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
